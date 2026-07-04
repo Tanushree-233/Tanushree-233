@@ -76,7 +76,7 @@ To build AI-driven systems that are explainable, accessible, and solve real prob
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:tanushreesd23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tanushree-rathod-818814281"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 ## Hi there 👋
 
